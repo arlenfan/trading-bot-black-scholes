@@ -1,0 +1,5 @@
+https://github.com/mcdallas/wallstreet
+https://github.com/ApurvShah007/Algorithmic-Trading
+https://github.com/yzoz/python-option-calculator
+https://github.com/RajdeepKonwar/stockast
+https://github.com/xinyexu/Binary-Option-Pricing
